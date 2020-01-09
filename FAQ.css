@@ -1,0 +1,21 @@
+body
+{
+	background-color:rgb(255,250,205);
+	background-size:cover;
+	color:rgb(0,0,0);
+	font-size:20px;
+	font-family:serif;
+	background-image:url("background-faq.jpg");
+	background-size:cover;
+}
+.image
+{
+	background-image:url("faq.jpg");
+	background-size:cover;
+	height:300px;
+	width:100%;
+	float:right;
+	position:relative;
+	top:0px;
+	border-radius:20px;
+}
